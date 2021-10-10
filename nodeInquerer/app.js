@@ -46,8 +46,6 @@ const main = async () => {
           console.log(`Alumne: ${nomAlumne} ${'::'.yellow} ${hores} hores guardades`);
 
         }
-
-
         console.log(id1);
         break;
 

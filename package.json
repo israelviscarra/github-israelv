@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "download": "^8.0.0",
+    "install": "^0.13.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
